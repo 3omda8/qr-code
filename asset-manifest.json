@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/3omda8/qr-code/static/css/main.4f4c0865.css",
+    "main.js": "/3omda8/qr-code/static/js/main.fbb3a737.js",
+    "static/media/1.jpeg": "/3omda8/qr-code/static/media/1.1ca21e9472c91610f877.jpeg",
+    "index.html": "/3omda8/qr-code/index.html",
+    "main.4f4c0865.css.map": "/3omda8/qr-code/static/css/main.4f4c0865.css.map",
+    "main.fbb3a737.js.map": "/3omda8/qr-code/static/js/main.fbb3a737.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f4c0865.css",
+    "static/js/main.fbb3a737.js"
+  ]
+}
