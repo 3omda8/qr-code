@@ -5,13 +5,13 @@ import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 import { faFacebook } from "@fortawesome/free-brands-svg-icons";
 import { faSnapchatGhost } from "@fortawesome/free-brands-svg-icons";
 import { faSquareInstagram } from "@fortawesome/free-brands-svg-icons";
-import "./App.css";
+import "./index.css";
 
 function App() {
   return (
     <div className="container">
       <div className="first">
-        <img src={image1} />
+        <img src={image1} alt="Moustafa Emad-image" />
       </div>
 
       <div className="second">
@@ -22,29 +22,26 @@ function App() {
           <h2 style={{ fontSize: "1.8rem" }}>Mobile : 01096688747</h2>
         </div>
         <div>
-          <a href="https://wa.me/+201096688747" target="_blank">
+          <a href="https://wa.me/+201096688747">
             <FontAwesomeIcon
               icon={faWhatsapp}
               style={{ fontSize: "64px", margin: "8px" }}
             />
           </a>
 
-          <a
-            href="https://www.facebook.com/profile.php?id=100004980244806"
-            target="_blank"
-          >
+          <a href="https://www.facebook.com/profile.php?id=100004980244806">
             <FontAwesomeIcon
               icon={faFacebook}
               style={{ fontSize: "64px", margin: "8px" }}
             />
           </a>
-          <a href="https://www.instagram.com/moustafa_3mad99" target="_blank">
+          <a href="https://www.instagram.com/moustafa_3mad99">
             <FontAwesomeIcon
               icon={faSquareInstagram}
               style={{ fontSize: "64px", margin: "8px" }}
             />
           </a>
-          <a href="https://www.google.com.eg" target="_blank">
+          <a href="https://www.google.com.eg">
             <FontAwesomeIcon
               icon={faSnapchatGhost}
               style={{ fontSize: "64px", margin: "8px" }}
