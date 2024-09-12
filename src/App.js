@@ -1,5 +1,4 @@
-import QRCode from "qrcode";
-import React, { useState, useEffect } from "react";
+import React from "react";
 import image1 from "./images/1.jpeg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
